@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.0",
+    "node": "^22.8.0",
     "nodemon": "^3.1.4"
   }
 }
